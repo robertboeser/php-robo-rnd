@@ -1,0 +1,21 @@
+{
+    "name": "robertboeser/robo-rnd",
+    "description": "generate random strings with different alphabets",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Böser",
+            "email": "code@robertboeser.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Robo\\RoboRnd\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0"
+    }
+}
