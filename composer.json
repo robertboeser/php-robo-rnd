@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Robo\\RoboRnd\\": "src/"
+            "Robo\\Rnd\\": "src/"
         }
     },
     "minimum-stability": "stable",
